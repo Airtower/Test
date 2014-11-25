@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4A99E78-2125-40BB-A4F7-394B4922452D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iTennis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEDA26E80C201906068427F852CD2CF378CBBD6B</key>
+		<string>github.com:Airtower/Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iTennis.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEDA26E80C201906068427F852CD2CF378CBBD6B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Airtower/Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEDA26E80C201906068427F852CD2CF378CBBD6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEDA26E80C201906068427F852CD2CF378CBBD6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iTennis</string>
+		</dict>
+	</array>
+</dict>
+</plist>

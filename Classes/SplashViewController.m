@@ -38,7 +38,7 @@
 
 -(void) fadeScreen {
 	[UIView beginAnimations:nil context:NULL];
-	[UIView setAnimationDuration:0.75];
+	[UIView setAnimationDuration:0.50];
 	[UIView setAnimationDelegate:self];
 	[UIView setAnimationDidStopSelector:@selector(finishFading)];
 	self.view.alpha = 0.0;
