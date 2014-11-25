@@ -40,7 +40,7 @@
 	[UIView beginAnimations:nil context:NULL];
 	[UIView setAnimationDuration:0.75];
 	[UIView setAnimationDelegate:self];
-	[UIView setAnimationDidStopSelector:@selector(finishFading)];
+	[UIView setAnimationDidStopSelector:@selector(finishFading)];//HELLO
 	self.view.alpha = 0.0;
 	[UIView commitAnimations];
 }
